@@ -1,0 +1,49 @@
+nav{
+    text-align: center;
+    background-color: lightgray;
+    padding-bottom: 03px;
+    padding-top: 3px;
+    margin-right: 0px;
+    margin-left: 0px;
+    
+    }
+    .germany{
+        display: inline;
+        margin-right: 05px;
+        margin-left: 05px;
+       float: left;
+    }
+    .portalgal{
+     display: inline;
+     margin-right: 05px;
+     margin-left: 05px;
+    float: left;
+    }
+    .spain{
+        display: inline;
+     margin-right: 05px;
+     margin-left: 25px;
+    float: left;
+    }
+    .srilanka{
+        display: inline;
+        margin-right: 05px;
+        margin-left: 10px;
+       float: left;
+    
+    }
+    .pakistan{
+        display: inline;
+       float: right;
+       margin-right: 69px;
+        margin-left: 05px;
+    }
+    .turkey{
+        display: inline;
+        margin-right: 05px;
+        margin-left: 05px;
+       float: left;
+    }
+    body{
+        background-color: white;
+    }
